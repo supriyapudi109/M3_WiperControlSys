@@ -1,0 +1,10 @@
+REQUIRMENTS:
+ STM32CUBEIDE
+ CYGWIN
+ QEMU
+ 
+ COMPONENTS USED IN PROJECT:
+  STM32F407G-DISC1
+STM32F407 series of microcontrollers are high-performance MCUs designed for medical, industrial and consumer applications. 
+It is based on ARM Cortex-M4 and offers up to 168MHz. The STM32F407VGT6 is the onboard chip which comes in a 100-pin LQFP package.
+https://in.images.search.yahoo.com/images/view;_ylt=AwrKFlyx9X1iCq05jhi9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzNkMmRmMWQyMDRhZTVjNGE0YjA1ZDg2NDFhMzI2OTUwBGdwb3MDNTUEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Darm%2Bbased%2Bcontroller%2Bused%2Bin%2Bcar%2Bwiper%2Bcontrol%2Bsystem%26type%3DE211IN714G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D55&w=900&h=416&imgurl=www.fcpeuro.com%2Fpublic%2Fassets%2Fproducts%2F398565%2Flarge%2FCapture.JPG%3F1612791900&rurl=https%3A%2F%2Fwww.fcpeuro.com%2Fproducts%2Fmercedes-windshield-wiper-arm-kit-vaico-1648200844&size=24.8KB&p=arm+based+controller+used+in+car+wiper+control+system&oid=3d2df1d204ae5c4a4b05d8641a326950&fr2=piv-web&fr=mcafee&tt=Mercedes+Windshield+Wiper+Arm+Kit+-+Vaico+1648200844+%7C+FCP+Euro&b=0&ni=21&no=55&ts=&tab=organic&sigr=mx6KDqFNkPDF&sigb=.pPBbKpPkEOc&sigi=go_ZjS1MVd75&sigt=JJC9qa_XKLgd&.crumb=K3sCDYMLacO&fr=mcafee&fr2=piv-web&type=E211IN714G0
